@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4) npm install react-bootstrap-table-next --save --legacy-peer-deps
 5) npm install react-bootstrap-table2-paginator --save --legacy-peer-deps
 6) npm install react-bootstrap-table2-editor --save --legacy-peer-deps
-7) npm install react-icons --save
+7) npm install react-icons --save --force
 
 8) npm start
 
